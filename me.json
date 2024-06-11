@@ -1,0 +1,12 @@
+{
+    "name":{
+        "first name":"tan",
+        "last name":"Shengyun"
+    },
+    "fromWisconsin":false,
+    "numCredit":14,
+    "major":"CS",
+    "interests":["tennis", "sleep"]
+
+
+}
